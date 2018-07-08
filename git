@@ -1,0 +1,16 @@
+// To download the created repo
+git clone https://github.com/vector569/Tf-practice.git
+
+// Edit your files
+
+// cd into the repository first
+git status
+
+// Commit the changes
+git commit -m a.html b.py f*
+
+// To upload the info to github.com
+git push
+
+// To pull the changes, cd into the repository and..
+git pull
